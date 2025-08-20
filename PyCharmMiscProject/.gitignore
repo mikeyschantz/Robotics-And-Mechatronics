@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Models / data / media
+*.pt
+*.onnx
+*.h5
+*.tflite
+*.pb
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.jpeg
+*.png
+data/
+logs/
